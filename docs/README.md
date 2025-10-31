@@ -27,8 +27,10 @@ OctoAcme projects involve clearly defined roles to ensure effective collaboratio
 - **Project Manager (PM)**: Coordinates delivery, schedules, risk management, and communications
 - **Product Manager (PdM)**: Defines outcomes, prioritizes the backlog, and measures success
 - **Developers**: Implement features, collaborate on design, and ensure testability
-- **QA/Testing**: Validate quality and verify acceptance criteria
-- **Stakeholders**: Provide inputs, feedback, and approvals
+- **Release Manager**: Coordinates releases, manages deployment lifecycle and rollback decisions
+- **QA Lead**: Owns quality strategy, testing processes, and provides release sign-off
+- **Security Lead**: Ensures security requirements, conducts reviews, and manages incident response
+- **Stakeholder Representative**: Acts as voice of stakeholders, facilitates feedback and alignment
 
 ### Communication Strategies
 
@@ -73,6 +75,8 @@ This folder contains detailed guides for each phase of our project management pr
 - [Release & Deployment Guide](octoacme-release-and-deployment.md) - Steps for deploying to production and announcing releases
 - [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) - Capturing learnings and driving continuous improvement
 - [Roles & Personas](octoacme-roles-and-personas.md) - Detailed definitions of roles and responsibilities
+- [QA Processes & Quality Ownership](octoacme-qa-processes.md) - Quality assurance standards, testing processes, and QA sign-off procedures
+- [Security Review & Incident Response](octoacme-security-processes.md) - Security review checklists, vulnerability management, and incident response procedures
 
 ## Getting Started
 
