@@ -209,6 +209,12 @@ Comments: [Additional notes]
 - Legal Team: [Contact info]
 - PR/Communications: [Contact info]
 
+**Maintenance Requirements**:
+- Update contact information monthly or when personnel changes
+- Test contact chain quarterly to ensure accuracy
+- Security Lead owns maintaining this list
+- Backup contacts should be designated for each role
+
 ---
 
 ## Security Training & Awareness

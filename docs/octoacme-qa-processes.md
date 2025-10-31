@@ -53,7 +53,7 @@ Quality is everyone's responsibility, with defined ownership at each stage:
 ### Test Levels
 
 #### Unit Testing (Developer ownership)
-- **Coverage Goal**: >80% for new code
+- **Coverage Goal**: >80% line coverage for new code (branch coverage recommended at >70%)
 - **Scope**: Individual functions and methods
 - **When**: During development, before PR
 - **Automated**: Yes, runs in CI

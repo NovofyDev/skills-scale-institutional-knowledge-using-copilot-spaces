@@ -24,14 +24,16 @@ Maintain a simple table with:
 ### Identifying Stakeholders
 Stakeholder groups and their communication needs:
 
-| Stakeholder Group | Primary Contact | Communication Frequency | Channel |
-|------------------|----------------|------------------------|---------|
-| Engineering Team | Project Manager | Daily | Standup, Slack |
-| Product Leadership | Product Manager | Weekly | Status meeting |
-| Sales Team | Stakeholder Rep | Milestone-based | Email updates |
-| Support Team | Stakeholder Rep | Per release | Release notes |
-| Executive Sponsors | Project Manager | Monthly | Executive summary |
-| Customers/Users | Stakeholder Rep | Per release | Product announcements |
+| Stakeholder Group | Primary Contact | Backup Contact | Communication Frequency | Channel |
+|------------------|----------------|----------------|------------------------|---------|
+| Engineering Team | Project Manager | Developer Lead | Daily | Standup, Slack |
+| Product Leadership | Product Manager | Project Manager | Weekly | Status meeting |
+| Sales Team | Stakeholder Rep | Product Manager | Milestone-based | Email updates |
+| Support Team | Stakeholder Rep | QA Lead | Per release | Release notes |
+| Executive Sponsors | Project Manager | Product Lead | Monthly | Executive summary |
+| Customers/Users | Stakeholder Rep | Product Manager | Per release | Product announcements |
+
+**Note**: When primary contact is unavailable, backup contact assumes responsibility for communication and escalation.
 
 ### Stakeholder Communication Plan
 - **Establish Early**: Identify stakeholders during project initiation
